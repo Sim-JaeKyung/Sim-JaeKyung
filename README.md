@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ¡Hola! Me llamo JaeKyung!
 
 
-[![My stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sim-JaeKyung)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sim-JaeKyung)](https://github.com/anuraghazra/github-readme-stats)
+
