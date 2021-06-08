@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-¡Hola! Me llamo JaeKyung!
+¡Hola! Me llamo JaeKyung! ¡Mucho gusto!
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sim-JaeKyung)](https://github.com/anuraghazra/github-readme-stats)
